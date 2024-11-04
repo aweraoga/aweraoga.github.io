@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aweraoga.github.io/MeD/sitemap_index.txt
+Sitemap: https://aweraoga.github.io/Niq/sitemap_index.txt
+Sitemap: https://aweraoga.github.io/TAb/sitemap_index.txt
+Sitemap: https://aweraoga.github.io/vNf/sitemap_index.txt
